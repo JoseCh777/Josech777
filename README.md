@@ -37,16 +37,19 @@ Me caracterizo por una mentalidad analítica, capacidad de aprendizaje continuo 
 ---
 
 
+## 📂 Proyectos
 
-## 📂 Proyectos (en construcción 🚧)
+🏋️‍♂️ Proyecto Destacado: GYMBROT
 
-Actualmente me encuentro desarrollando y documentando proyectos enfocados en:
+GYMBROT es un sistema de gestión para gimnasios que integra control de acceso biométrico y un chatbot de asistencia para clientes, desarrollado en Java
 
-* Aplicaciones en Java
-* Ejercicios de lógica y estructuras de datos
-* Análisis de datos con herramientas ofimáticas
+🧩 Funcionalidades principales
+* Registro y gestión de clientes
+* Control de ingreso y salida con sistema biométrico
+* Automatización de atención al cliente mediante chatbot
+* Interfaz gráfica desarrollada con JavaFX y SceneBuilder
+* Gestión administrativa del gimnasio
 
-📌 Próximamente estaré publicando repositorios con soluciones reales y documentación técnica.
 
 ---
 
