@@ -1,7 +1,9 @@
 # 👨‍💻 José Antonio Chinchia Gutiérrez
 
 🎓 Junior Software Developer | Estudiante de Ingeniería de Sistemas
+
 📍 Valledupar, Colombia
+
 📧 [joseantoniochinchia8@gmail.com](mailto:joseantoniochinchia8@gmail.com)
 
 ---
@@ -21,12 +23,6 @@ Me caracterizo por una mentalidad analítica, capacidad de aprendizaje continuo 
 * Java (Intermedio)
 * C++ (Básico)
 
-**Herramientas y Tecnologías**
-
-* Git & GitHub (control de versiones)
-* Excel, Word, PowerPoint (Avanzado)
-* Canva (visualización de información)
-
 **Enfoque Técnico**
 
 * Desarrollo de software
@@ -40,6 +36,7 @@ Me caracterizo por una mentalidad analítica, capacidad de aprendizaje continuo 
 ## 📂 Proyectos
 
 🏋️‍♂️ Proyecto Destacado: GYMBROT
+Rol en el proyecto: Lider /Scrum Master
 
 GYMBROT es un sistema de gestión para gimnasios que integra control de acceso biométrico y un chatbot de asistencia para clientes, desarrollado en Java
 
@@ -56,28 +53,7 @@ GYMBROT es un sistema de gestión para gimnasios que integra control de acceso b
 ## 🌍 Idiomas
 
 * Español: Nativo
-* Inglés: B2 (Intermedio - Avanzado)
+* Inglés: B2 (Intermedio)
+
 
 ---
-
-## 🧠 Habilidades Clave
-
-* Pensamiento lógico y analítico
-* Resolución de problemas
-* Trabajo en equipo
-* Comunicación efectiva
-* Adaptabilidad
-
----
-
-## 🎯 Objetivo Profesional
-
-Iniciar mi carrera como desarrollador junior, participando en proyectos de desarrollo de software donde pueda aplicar mis conocimientos, seguir aprendiendo y aportar soluciones tecnológicas de valor.
-
----
-
-## 📫 Conecta conmigo
-
-Estoy abierto a oportunidades, colaboración en proyectos y aprendizaje continuo.
-
-⭐ *Gracias por visitar mi perfil*
