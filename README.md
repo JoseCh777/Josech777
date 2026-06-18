@@ -100,7 +100,6 @@ Sistema integral de gestión para gimnasios desarrollado en Java que incorpora c
 * Desarrollo Web
 * Desarrollo Backend Avanzado
 * Buenas Prácticas de Ingeniería de Software
-* Integración de Sistemas Empresariales
 
 ---
 
