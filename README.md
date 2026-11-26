@@ -27,20 +27,25 @@ Lidero el frontend de mi equipo y me gusta liderar proyectos de gran alcance con
 
 ## Proyectos
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:145FEE,100:0A1F44&height=110&section=header&text=Averyn&fontColor=ffffff&fontSize=38&desc=Proyecto%20destacado%20%C2%B7%20Identidad%20y%20verificaci%C3%B3n%20biom%C3%A9trica%20%C2%B7%20En%20desarrollo&descSize=15&descAlignY=72" alt="Averyn" width="100%"/>
+<img src="./assets/averyn-banner.svg" alt="Averyn · Proyecto destacado · Identidad y verificación biométrica" width="100%"/>
 
 **Plataforma institucional multi-tenant de identidad y verificación biométrica** para universidades, empresas y entidades. Reúne en un solo producto la gestión de personas, la biometría facial y de huella, la lectura de documentos con OCR e IA, el control de accesos y los procesos electorales, con cada organización aislada de las demás.
 
+[![Sitio](https://img.shields.io/badge/Ver%20sitio-myaveryn.app-145FEE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A1F44)](https://myaveryn.app/)
+
 **Mi rol**
 - Frontend, autenticación y biometría de huella.
-- Sistema de diseño y landing pública: hero guiado por scroll, galería interactiva, escena 3D en CSS y espacios para imagen y video.
+- Sistema de diseño y landing pública ([myaveryn.app](https://myaveryn.app/)): intro animada del logo, escenas WebGL y componentes interactivos con React Bits, tema claro y oscuro con transición circular, y una versión móvil pensada para el dedo (visores deslizables, controles de 44 px, sin scroll horizontal).
+- Rendimiento medido en móvil de gama media: carga diferida de lo pesado, escenas que se pausan fuera de pantalla y modo ligero automático.
 - Autenticación en el cliente con cookies HttpOnly y renovación de sesión única.
 - Alta de personas, consola de accesos y control de puerta con captura en vivo.
 - Accesibilidad WCAG 2.2 AA verificada, responsive de 375 a 1440 px, pruebas automatizadas y CI en cada PR.
 
 **Stack del proyecto**
 
-**Frontend:** `Next.js` `React` `TypeScript` `Tailwind CSS`
+**Frontend:** `Next.js` `React` `TypeScript` `Tailwind CSS` `React Bits` `three.js` `WebGL`
+
+**Despliegue:** `Vercel`
 
 **Backend y datos:** `NestJS` `PostgreSQL` `Prisma` `Supabase` `pgvector`
 
